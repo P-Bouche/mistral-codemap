@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "mistral-codemap",
+  "version": "1.0.0",
+  "description": "Cartographie de codebase pour Vibe Code : architecture, dépendances, mindmaps, guide d'onboarding (port de hxxnn/codemap)."
+}
