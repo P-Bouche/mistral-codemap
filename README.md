@@ -2,7 +2,7 @@
 
 Cartographie de codebase pour Vibe Code : architecture, dépendances, mindmaps, guide d'onboarding (port de hxxnn/mistral-codemap).
 
-Portage des skills de [mistral-codemap](https://github.com/hxxnn/codemap) (archive de la branche `main`, 24 novembre 2026) vers le format Agent Skills utilisé par Vibe Code. 8 skills.
+Portage des skills de [codemap](https://github.com/hxxnn/codemap) (archive de la branche `main`, 24 novembre 2026) vers le format Agent Skills utilisé par Vibe Code. 8 skills.
 
 ## Skills portées
 
